@@ -18,3 +18,7 @@ Task 1:Studied and understood the bakery algorithm
 Task 2:implemented the c code, named bakery.c
 Task 3:implemented semaphores insteads of spin locks
 Task 4:
+Task 5: Shell script(the program on my machine is called first and 
+	takes the number of threads as a prameter), named bashscript.sh
+Task 6: we will use our data set to print our a graph:
+https://docs.google.com/spreadsheets/d/1kH8I5gtjGP3Hd-4jjmjbjHwCTQbcN6SnvGXQXEgHdjU/edit?usp=sharing
